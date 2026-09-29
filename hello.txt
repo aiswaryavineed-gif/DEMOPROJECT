@@ -1,2 +1,20 @@
-hello my name is aiswarya
-i am full stack developer
+### Git commands
+#for adding user
+   -- git config  -- global user.name "username"
+   --  git config -- global user.email "emailaddress"
+   -- git config list
+
+# in project folder
+ -- git init
+
+ -- git status
+
+ -- git add .
+
+ -- git commit - m "message"
+
+ -- git log
+
+ -- git remote add origin 'repository name'
+
+ -- git push origin branchname(master/main)
